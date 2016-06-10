@@ -1,0 +1,8 @@
+{
+  "name": "MQTTKafkaBridge",
+  "version": "0.0.1",
+  "dependencies": {
+    "mqtt": "~1.11.0",
+    "kafka-node": "~0.3.3"
+  }
+}
